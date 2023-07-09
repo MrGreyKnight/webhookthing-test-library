@@ -14,23 +14,23 @@ Please follow the pretter configuration for JSON files.
 
 Folder structure sits in the following format
 
--- Hooks
----- Service Provider/Product
------- Major version
--------- Minor Version
----------- Folders to match webhook naming scheme
+- Hooks
+  - Service Provider/Product
+    - Major version
+      - Minor Version
+        - Folders to match webhook naming scheme
 
 ### Example
 
 Square Devices Webhooks `device.code.paired`
 
--- Hooks
----- Square
------- V2
--------- 2023-06-08
----------- device
------------- code
--------------- paired.json
+- Hooks
+  - Square
+    - V2
+      - 2023-06-08
+        - device
+          - code
+            - paired.json
 
 ## Current Library
 
