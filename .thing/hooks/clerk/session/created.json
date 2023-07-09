@@ -1,0 +1,16 @@
+{
+  "data": {
+    "abandon_at": 1656606318265,
+    "client_id": "client_29wBS3h1zhE1BsEK2dg9oyypfYk",
+    "created_at": 1654014318265,
+    "expire_at": 1654619118265,
+    "id": "sess_29wBYxnMCQU2KIs6V3ZPOJCPUXx",
+    "last_active_at": 1654014318265,
+    "object": "session",
+    "status": "active",
+    "updated_at": 1654014318503,
+    "user_id": "user_29wBMCtzATuFJut8jO2VNTVekS4"
+  },
+  "object": "event",
+  "type": "session.created"
+}

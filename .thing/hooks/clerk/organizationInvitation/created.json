@@ -1,0 +1,14 @@
+{
+  "data": {
+    "created_at": 1654014189392,
+    "email_address": "example@example.org",
+    "id": "orginv_29wBIniWYy0slasTNQlmHD9HeN1",
+    "object": "organization_invitation",
+    "organization_id": "org_29w9IfBrPmcpi0IeBVaKtA7R94W",
+    "role": "basic_member",
+    "status": "pending",
+    "updated_at": 1654014189392
+  },
+  "object": "event",
+  "type": "organizationInvitation.created"
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "data": {
+      "app": {
+        "domain_name": "measured.pelican-67.lcl.dev",
+        "logo_image_url": "https://img.clerk.com/xxxxxx",
+        "logo_url": null,
+        "name": "Acme",
+        "url": "https://accounts.measured.pelican-67.lcl.dev"
+      },
+      "otp_code": "123456",
+      "user": {
+        "public_metadata": {},
+        "public_metadata_fallback": ""
+      }
+    },
+    "delivered_by_clerk": true,
+    "from_phone_number": "15556667777",
+    "id": "sms_abcd",
+    "message": "123456 is your Acme verification code and it will expire in 10 minutes. Do not share this with anyone.\n\n@measured.pelican-67.lcl.dev #123456",
+    "object": "sms_message",
+    "phone_number_id": "idn_abcd",
+    "slug": "verification_code",
+    "status": "queued",
+    "to_phone_number": "+15557778888",
+    "user_id": "user_abcd"
+  },
+  "object": "event",
+  "type": "sms.created"
+}

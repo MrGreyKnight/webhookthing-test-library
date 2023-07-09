@@ -1,0 +1,9 @@
+{
+  "data": {
+    "deleted": true,
+    "id": "org_29w9IfBrPmcpi0IeBVaKtA7R94W",
+    "object": "organization"
+  },
+  "object": "event",
+  "type": "organization.deleted"
+}

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "deleted": true,
+    "id": "user_29wBMCtzATuFJut8jO2VNTVekS4",
+    "object": "user"
+  },
+  "object": "event",
+  "type": "user.deleted"
+}
