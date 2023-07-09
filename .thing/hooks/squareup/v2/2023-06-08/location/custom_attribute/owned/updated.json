@@ -1,0 +1,18 @@
+{
+  "merchant_id": "DM7VKY8Q63GNP",
+  "type": "location.custom_attribute.owned.updated",
+  "event_id": "e26ca6f2-97f8-426a-b4bf-873044617e94",
+  "created_at": "2022-11-26T21:40:54Z",
+  "data": {
+    "type": "custom_attribute",
+    "id": "sq0idp-LJ1Kr4Iim0hGDvAwrv8HIB:favorite-shampoo:LOCATION:0V3BVT5RHZ835",
+    "object": {
+      "created_at": "2022-11-26T21:40:54Z",
+      "key": "sq0idp-LJ1Kr4Iim0hGDvAwrv8HIB:region-located",
+      "updated_at": "2022-11-26T21:40:54Z",
+      "value": "PNW",
+      "version": 1,
+      "visibility": "VISIBILITY_READ_ONLY"
+    }
+  }
+}
